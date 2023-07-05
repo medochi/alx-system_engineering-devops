@@ -1,5 +1,2 @@
-#!/bin/bassh
-absolute_path=$(pwd)
-echo $absolute_path
-
-
+#!/bin/bash
+pwd
